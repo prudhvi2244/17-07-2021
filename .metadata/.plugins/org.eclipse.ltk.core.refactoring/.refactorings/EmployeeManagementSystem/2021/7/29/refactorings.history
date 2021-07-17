@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.ems.in.service.EmployeeServiveImpl&apos; to &apos;EmployeeServiceImpl&apos;&#x0D;&#x0A;- Original project: &apos;EmployeeManagementSystem&apos;&#x0D;&#x0A;- Original element: &apos;com.ems.in.service.EmployeeServiveImpl&apos;&#x0D;&#x0A;- Renamed element: &apos;com.ems.in.service.EmployeeServiceImpl&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;EmployeeServiveImpl&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ems.in.service{EmployeeServiveImpl.java[EmployeeServiveImpl" matchStrategy="1" name="EmployeeServiceImpl" qualified="false" references="true" similarDeclarations="false" stamp="1626498437475" textual="false" version="1.0"/>
+</session>

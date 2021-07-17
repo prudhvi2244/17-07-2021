@@ -1,0 +1,14 @@
+
+‘
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(ãÍ™‡üÿÿÿÿ8¥„¡—«/H”RMINORZ
+CODE_SMELL
+Œ
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(¨—°Õ8Õİº—«/HRMINORZ
+CODE_SMELL
+Œ
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒáöÉ8êÛ°—«/H›RMINORZ
+CODE_SMELL
+~
+java:S4684%"@Replace this persistent entity with a simple POJO or DTO object.(Á›ëíøÿÿÿÿ8¥„¡—«/H‘RCRITICALZVULNERABILITY
+s	java:S125"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8¥„¡—«/H’RMAJORZ
+CODE_SMELL
